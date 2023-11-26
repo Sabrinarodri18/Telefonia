@@ -2,6 +2,6 @@
 Simulação de uma central de telefonia, projeto em JAVA 
 
 Membros:
-Fernanda de Souza Batista Santos;
-Giulia Agostini Barbosa; 
-Sabrina Rodrigues Sampaio da Luz.
+<p>Fernanda de Souza Batista Santos;</p>
+<p>Giulia Agostini Barbosa;</p>
+<p>Sabrina Rodrigues Sampaio da Luz.</p>
